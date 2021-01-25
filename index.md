@@ -11,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+![alt text](http://url/to/giphy-4.gif) 
+
+
 # Header 1
 ## Header 2
 ### Header 3
